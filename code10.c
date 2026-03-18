@@ -18,7 +18,7 @@ int isPalindrome(char s[]) {
 int main() {
     char s[100];
 
-    code11.c
+    
     scanf("%s", s);
 
     if (isPalindrome(s))
